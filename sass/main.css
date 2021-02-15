@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@400;500;600;700;800&family=Nunito:wght@600;700;800&display=swap");
+body {
+  font-family: "Mukta", sans-serif;
+  background-position: 90% 140%;
+  background-repeat: no-repeat;
+  background-color: white;
+  background-size: 1100px 550px;
+}
+
+.icons {
+  width: 30px;
+  padding-top: 30px;
+  background-color: white;
+}
+
+.container {
+  background-color: #4a2c76;
+}
+
+.nav-cust {
+  padding-left: 70px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-right: 20px;
+  padding-top: 30px;
+}
+
+.text-nav {
+  font-size: 16px;
+  font-weight: bolder;
+  color: #4a2c76;
+  margin-right: 35px;
+}
+
+.text-desc {
+  margin-left: 70px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 100px;
+  color: #4a2c76;
+}
+
+.text-desc h1 {
+  font-weight: 800;
+}
+
+.text-desc h4 {
+  font-weight: 600;
+  padding-top: 15px;
+}
+
+.text-desc a {
+  display: inline-block;
+  color: white;
+  background-color: #ff9b1b;
+  border-radius: 15px;
+  padding-left: 22px;
+  padding-right: 22px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.arrow {
+  margin-top: 70px;
+  width: 120px;
+}
+
+.img-bg {
+  background-position: top right;
+  background-repeat: no-repeat;
+  width: 60%;
+  height: 550px;
+}
+/*# sourceMappingURL=main.css.map */
